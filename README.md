@@ -1,2 +1,2 @@
 # css-projects
-These codes have been maded by Ayman Sayed Ahmad
+These codes have been made by Ayman Sayed Ahmad
